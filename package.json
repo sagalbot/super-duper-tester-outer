@@ -1,0 +1,24 @@
+{
+  "name": "super-duper-tester-outer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "hello": "echo \"saaaaaaaa\"",
+    "prepare": "npm run hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagalbot/super-duper-tester-outer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagalbot/super-duper-tester-outer/issues"
+  },
+  "homepage": "https://github.com/sagalbot/super-duper-tester-outer#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "webpack": "^4.41.2"
+  }
+}
