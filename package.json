@@ -6,6 +6,7 @@
   "scripts": {
     "prepare": "echo \"alert('hello world')\" >> index.js"
   },
+  "files": ["index.js"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sagalbot/super-duper-tester-outer.git"
